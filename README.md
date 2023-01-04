@@ -1,0 +1,1 @@
+# TA-Strike-Analysis-For-Daily-Nexus
