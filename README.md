@@ -15,3 +15,4 @@ Sample Sizes of All Platforms for Each Week (Made With Matplotlib):
 Week by Week Sentiment of All Platforms (Made With Altair) (Won't show up in the code file)
 
 <img width="682" alt="Screen Shot 2023-01-25 at 4 23 26 AM" src="https://user-images.githubusercontent.com/114623857/214563716-58661b49-682c-446d-a15e-cf075f815b7b.png">
+
