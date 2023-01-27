@@ -2,7 +2,7 @@
 
 This repository is the Reddit portion (my contribution!) to the 3 part (1 part assigned to each person) TA Strike Analysis consisting of Reddit, Twitter, and Discord data. After scraping reddit posts with PRAW, I analyzed trends in UCSB Student responses to the UAW strike through sentiment analysis. The final, combined research+visualizations will be published on January 26th as an article for the Daily Nexus.
 
-In this project, I practiced using python packages in a colab notebook, creating matplotlib and ggplot2 diagrams to graph results, writing edgecases to get as many posts as possible, and journalism!
+In this project, I practiced using python packages in a colab notebook, created matplotlib and ggplot2 diagrams to graph results, wrote edgecases to get as many posts as possible, and journalism!
 
 Overall Sentiment (Made With R):
 
