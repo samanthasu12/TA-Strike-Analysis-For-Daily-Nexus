@@ -4,7 +4,7 @@ This repository is the Reddit portion (my contribution!) to the 3 part (1 part a
 
 In this project, I practiced using python packages in a colab notebook, created matplotlib and ggplot2 diagrams to graph results, wrote edgecases to get as many posts as possible, and journalism!
 
-Reddit had the most story--probably because it consisted of mostly UCSB students (unlike Twitter), and we were able to get a large sample size of posts (unlike Discord). The posts in the first three weeks of the strike were mostly positive. Then, overall sentiment shifted towards mostly negative when TAs started blocking student parking, causing an outrage. Towards the final weeks, when the UCs reached their agreement, it was mostly neutral, due to a mix of sentiment and a lot of students being on winter break.
+Reddit had the most story--probably because it consisted of mostly UCSB students (unlike Twitter), and we were able to get a large sample size of posts (unlike Discord). The posts in the first three weeks of the strike were mostly positive. Then, overall sentiment shifted towards mostly negative when TAs started blocking student parking, causing an outrage. Towards the final weeks, when the UCs reached their agreement, it was mostly neutral, due to a mix of sentiment and a lot of students being inactive on winter break.
 
 IT'S UP!! CHECK IT OUT HERE: https://dailynexus.com/2023-02-16/keeping-up-with-the-uc-labor-strike-a-ucsb-social-media-sentiment-analysis/
 
